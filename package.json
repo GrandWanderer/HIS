@@ -1,0 +1,11 @@
+{
+  "name": "his-mini-js",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Minimal HIS modules for QA labs (unit tests) - JavaScript (Node.js test runner)",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test tests",
+    "coverage": "node --test tests --experimental-test-coverage --test-coverage-include=src --test-coverage-exclude=src/data"
+  }
+}
