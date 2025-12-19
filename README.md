@@ -1,4 +1,4 @@
-# HIS-mini-js (Node.js) — під ЛР №7 (UNIT tests)
+# HIS (Node.js) — під ЛР №7 (UNIT tests)
 
 Мінімальний “живий” шматок Hospital Information System (HIS) на **JavaScript (Node.js)** з чітким розділенням:
 - **utils** (сервісні/утилітарні функції)
