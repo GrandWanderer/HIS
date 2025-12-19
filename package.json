@@ -5,7 +5,7 @@
   "description": "Minimal HIS modules for QA labs (unit tests) - JavaScript (Node.js test runner)",
   "type": "commonjs",
   "scripts": {
-    "test": "node --test tests",
-    "coverage": "node --test tests --experimental-test-coverage --test-coverage-include=src --test-coverage-exclude=src/data"
+    "test": "node --test",
+    "coverage": "node --test --experimental-test-coverage"
   }
 }

@@ -1,4 +1,3 @@
-\
 const { ValidationError } = require("./errors");
 
 /**
